@@ -1,0 +1,19 @@
+{
+  "name": "testando-url",
+  "version": "0.0.1",
+  "description": "Testando qual será a URL correta",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ewerton Dutra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "@sendgrid/mail": "^7.4.2"
+  },
+  "devDependencies": {
+    
+  }
+}
